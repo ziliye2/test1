@@ -1,0 +1,3 @@
+1.https://github.com/ ziliye Aa123456!11! yzli_81@126.com
+翻软件：Shadowsocks
+2.一个git库（仓库）对应一个开源项目，通过git管理git库。
